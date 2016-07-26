@@ -1,0 +1,24 @@
+{
+  "name": "myhapitemplate",
+  "version": "0.0.1",
+  "description": "A Hapi Server Template ",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/lab/bin/lab -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "devDependencies": {
+    "code": "^3.0.1",
+    "lab": "^10.9.0"
+  },
+  "dependencies": {
+    "fast-safe-stringify": "^1.0.9",
+    "hapi": "^13.5.0",
+    "moment": "^2.14.1"
+  }
+}
